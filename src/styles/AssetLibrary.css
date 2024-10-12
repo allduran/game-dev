@@ -1,0 +1,17 @@
+/* src/components/AssetLibrary.css */
+
+.asset-library-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .asset-library-container h2 {
+    font-size: 24px;
+    color: #2e3b4e;
+  }
+  
+  .asset-library-container p {
+    color: #556e80;
+  }
+  

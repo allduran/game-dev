@@ -1,0 +1,17 @@
+/* src/components/NodeInterface.css */
+
+.node-interface-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .node-interface-container h2 {
+    font-size: 24px;
+    color: #2e3b4e;
+  }
+  
+  .node-interface-container p {
+    color: #556e80;
+  }
+  

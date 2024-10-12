@@ -1,0 +1,17 @@
+/* src/components/KanbanBoard.css */
+
+.kanban-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .kanban-container h2 {
+    font-size: 24px;
+    color: #2e3b4e;
+  }
+  
+  .kanban-container p {
+    color: #556e80;
+  }
+  
